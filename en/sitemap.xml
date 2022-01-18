@@ -2,7 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://blog.colyn.im/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://blog.colyn.im/about/</loc><lastmod>2022-01-18T08:45:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://blog.colyn.im/zh-cn/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://blog.colyn.im/about/"
+                    /></url><url>
+            <loc>https://blog.colyn.im/categories/</loc><lastmod>2022-01-17T16:00:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://blog.colyn.im/zh-cn/categories/"
@@ -11,7 +20,8 @@
                     hreflang="en"
                     href="https://blog.colyn.im/categories/"
                     /></url><url>
-            <loc>https://blog.colyn.im/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://blog.colyn.im/tags/dumbbell/</loc><lastmod>2022-01-17T16:00:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.colyn.im/</loc><lastmod>2022-01-17T16:00:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://blog.colyn.im/zh-cn/"
@@ -20,7 +30,17 @@
                     hreflang="en"
                     href="https://blog.colyn.im/"
                     /></url><url>
-            <loc>https://blog.colyn.im/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://blog.colyn.im/categories/life/</loc><lastmod>2022-01-17T16:00:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.colyn.im/posts/</loc><lastmod>2022-01-17T16:00:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://blog.colyn.im/zh-cn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://blog.colyn.im/posts/"
+                    /></url><url>
+            <loc>https://blog.colyn.im/tags/</loc><lastmod>2022-01-17T16:00:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://blog.colyn.im/zh-cn/tags/"
@@ -28,4 +48,15 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://blog.colyn.im/tags/"
-                    /></url></urlset>
+                    /></url><url>
+            <loc>https://blog.colyn.im/total-body-training-program/</loc><lastmod>2022-01-17T16:00:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://blog.colyn.im/zh-cn/total-body-training-program/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://blog.colyn.im/total-body-training-program/"
+                    /></url><url>
+            <loc>https://blog.colyn.im/categories/tutorial/</loc><lastmod>2022-01-17T16:00:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.colyn.im/tags/workout/</loc><lastmod>2022-01-17T16:00:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
